@@ -2,7 +2,7 @@
 ## I'm a Geomatics Engineering Student at Istanbul Technical University.
 
 - :seedling: I’m currently learning python and javascript
-- :goal: 2021 Goals: Contribute to Open Source projects about deep learning & remote sensing
+- :eggplant: 2021 Goals: Contribute to Open Source projects about deep learning & remote sensing
 - :zap: I'm a Formula 1 Fan
 
 ### Spotify Playing :headphones:
