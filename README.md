@@ -7,7 +7,7 @@
 
 ### Spotify Playing :headphones:
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=cutoyy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=cutoyy&cover_image=true&theme=novatorem)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cutoyy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
