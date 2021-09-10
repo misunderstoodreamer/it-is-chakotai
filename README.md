@@ -1,7 +1,7 @@
 ### Hi there, I'm Çağatay - aka [cutoyy] :wave:
 ## I'm a Geomatics Engineer at Istanbul Technical University, BCs.
 
-- :seedling: I’m currently learning python & javascript and some other cool stuff.
+- :seedling: I’m currently learning pytorch, deep learning algorithms and some other cool stuff.
 - :eggplant: 2021 Goals: Publishing a paper in reputable journal about Remote Sensing. 
 - :zap: I'm a Formula 1 specialist.
 
