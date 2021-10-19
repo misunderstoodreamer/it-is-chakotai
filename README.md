@@ -1,4 +1,4 @@
-### Hi there, I'm Çağatay - aka [cutoyy] :wave:
+### Hi there, I'm Çağatay - aka [sikitai] :wave:
 ## I'm a Geomatics Engineer at Istanbul Technical University, BCs.
 
 - :seedling: I’m currently learning pytorch, deep learning algorithms and some other cool stuff.
