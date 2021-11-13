@@ -1,5 +1,5 @@
 ### Hi there, I'm Çağatay - aka [sikitai] :wave:
-## I'm a Machine Learning Engineer and studying Istanbul Technical University right now.
+## I'm a Machine Learning Engineer and studying at Istanbul Technical University right now.
 
 - :seedling: I’m currently learning tensorflow, opencv, react native and some other cool stuff.
 - :eggplant: 2022 Goals: Solving real life problem with machine learning and making its mobile application.
