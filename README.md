@@ -1,7 +1,7 @@
 ### Hi there, I'm Çağatay - aka [sikitai] :wave:
-## I'm a Geomatics Engineer at Istanbul Technical University, BCs.
+## I'm a Machine Learning Engineer and studying Istanbul Technical University right now.
 
-- :seedling: I’m currently learning pytorch, deep learning algorithms and some other cool stuff.
+- :seedling: I’m currently learning tensorflow, react.js, and some other cool stuff.
 - :eggplant: 2021 Goals: Publishing a paper in reputable journal about Remote Sensing. 
 - :zap: I'm a Formula 1 specialist.
 
@@ -15,5 +15,5 @@
 <br />
 
 
-[twitter]: https://twitter.com/meloveseb
-[linkedin]: https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-ya%C4%9Fmur-a11a40128/
+[twitter]: https://twitter.com/piyerparecim
+[linkedin]: https://www.linkedin.com/in/cagoyagmur/
