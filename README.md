@@ -1,9 +1,9 @@
 ### Hi there, I'm Çağatay - aka [sikitai] :wave:
 ## I'm a Machine Learning Engineer and studying Istanbul Technical University right now.
 
-- :seedling: I’m currently learning tensorflow, react.js, and some other cool stuff.
-- :eggplant: 2021 Goals: Publishing a paper in reputable journal about Remote Sensing. 
-- :zap: I'm a Formula 1 specialist.
+- :seedling: I’m currently learning tensorflow, opencv, react native and some other cool stuff.
+- :eggplant: 2022 Goals: Solving real life problem with machine learning and making its mobile application.
+- :zap: I'm a Formula 1 specialist. GO SEB!
 
 ### Spotify Playing :headphones:
 
