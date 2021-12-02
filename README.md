@@ -1,4 +1,4 @@
-### Hi there, I'm Çağatay - aka [sikitai] :wave:
+### Hi there, I'm Çağatay - aka [chakotai] :wave:
 ## I'm a Machine Learning Engineer and studying at Istanbul Technical University right now.
 
 - :seedling: I’m currently learning tensorflow, opencv, react native and some other cool stuff.
