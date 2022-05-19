@@ -1,7 +1,7 @@
 ### Hi there, I'm Çağatay - aka [chakotai] :wave:
 ## I'm a Machine Learning Engineer and studying at Istanbul Technical University right now.
 
-- :seedling: I’m currently learning tensorflow, react native, .NET Core and some other cool stuff.
+- :seedling: I’m currently leading software department of Amphibees Robotics Team and working a tech company as a data scientist role.
 - :eggplant: 2022 Goals: Solving real life problem with machine learning and making its mobile application.
 - :zap: I'm a Formula 1 specialist. GO SEB!
 
